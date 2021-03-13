@@ -1,7 +1,7 @@
 =============================
 simone
 =============================
-
+New line
 .. image:: https://badge.fury.io/py/simone.png
     :target: https://badge.fury.io/py/simone
 
