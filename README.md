@@ -20,7 +20,7 @@ to run locally:
 * Go to http://127.0.0.1:8000/mail
 * Fill in your IMAP details
 * Profit!
-
+New Line
 
 What works:
 
